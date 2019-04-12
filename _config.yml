@@ -1,7 +1,7 @@
 # Site settings
 title: Dennis Kanbier 
 description: 'E&nbsp;N&nbsp;G&nbsp;I&nbsp;N&nbsp;E&nbsp;E&nbsp;R&nbsp;/&nbsp;C&nbsp;O&nbsp;N&nbsp;S&nbsp;U&nbsp;L&nbsp;T&nbsp;A&nbsp;N&nbsp;T'
-#url: 'https://denniskanbier.nl'
+url: 'https://denniskanbier.nl'
 baseurl: ''
 
 #google_analytics: ''
