@@ -1,7 +1,7 @@
 ---
 title: Testing page
 layout: post
-tags: [Foo, Bar]
+tags: [Foo, Bar, Baz]
 ---
 
 
