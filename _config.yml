@@ -1,0 +1,50 @@
+# Site settings
+title: Dennis Kanbier 
+description: 'E&nbsp;N&nbsp;G&nbsp;I&nbsp;N&nbsp;E&nbsp;E&nbsp;R&nbsp;/&nbsp;C&nbsp;O&nbsp;N&nbsp;S&nbsp;U&nbsp;L&nbsp;T&nbsp;A&nbsp;N&nbsp;T'
+#url: 'https://denniskanbier.nl'
+baseurl: ''
+
+#google_analytics: ''
+#disqus_shortname: ''
+
+remote_theme: dkanbier/jekyll-uno
+
+author:
+  name: 'Dennis Kanbier'
+  email: info@denniskanbier.nl
+  twitter_username: dkanbier 
+  #facebook_username: joshgerdes
+  github_username:  dkanbier
+  linkedin_username: dkanbier 
+  
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:year/:month/:day/:title/
+markdown: kramdown
+highlighter: rouge
+
+sass:
+    sass_dir: _sass
+    style: compressed
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', '.travis.yml', 'vendor']
