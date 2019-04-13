@@ -1,0 +1,79 @@
+---
+permalink: /.well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/dkanbier
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://denniskanbier.nl
+  * I am dkanbier (https://keybase.io/dkanbier) on keybase.
+  * I have a public key with fingerprint EE4B C0C7 5F24 C85E 46AA  DCA8 6D86 47F4 BAFC 3DDB
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120c5ebb5aa68c75242b85279d45349b046dfe52be26606a960c3cb3b7864913b230a",
+      "fingerprint": "ee4bc0c75f24c85e46aadca86d8647f4bafc3ddb",
+      "host": "keybase.io",
+      "key_id": "6d8647f4bafc3ddb",
+      "kid": "0101d361be1aa14a713daa5ba9efc252628a5dc6431242c28e56060debe56ab753620a",
+      "uid": "da02efa3352dc042a71f7635c2fd6519",
+      "username": "dkanbier"
+    },
+    "service": {
+      "hostname": "denniskanbier.nl",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1555181897,
+  "expire_in": 157680000,
+  "prev": "78af295a1d40549080f1045ef3f1689b5a1775071bb7f9975092c9ef1e0e4393",
+  "seqno": 21,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.0
+Comment: https://keybase.io/crypto
+
+yMNuAnicbVJtUFRVGF4UUUCEgEyTBC+iNi7M/Tr3YyeUSSYVmKG0xRnDtnPvPXfv
+heXusl+AyFBEUqMwFf4IyTGobIgaoFHAGsFla4xQwWFiHXCYdCyC0cIPappQupeR
+f50/5z3veZ7nPO973u9jlpuiwkqO7n747XzmRNhQ4GOfqfAbYm8lJjilCsxSiRWj
+xQ05JOTx2opVCbNgOEHiIkCCACBkOJEFJE0KHCBZXqIBRfMCTjOSjAApIJJhcAby
+DC5SokAJLMfQPEEJJIVDzIzJqmZHbpdb1by6LEK0IOK6nEzSIgcQzUAoiZBjJJ3F
+yrQAZZGSJEEnKk6PwdDNCdCDMlSnntMPtkV7/4Nf8o0TEsUQAiIgJGjIEpQEIRAg
+j2SRBCRDchBIIkNThF6RSHII6O5xCQl6AAUWUAy56Nu3KCdBnEQypChASiJOk7qe
+zDIUEElZYgDBG0APcmuwBBnoYqgJKnJjVWZMz/pVERmNNSpZQiBNUz1PYBmaQ+e7
+3E6vU3Q69FvF63V5LAbbW+Ey4GVIsD0RsgmqJum91Bl+5PaoTg2zEDpS9KqGMgEA
+IDiC41kzhspdqhvZVAMBWIbD9WW8g/y6JMtBmeQBJCQaBzSPc7hM4DRAMiUTDMfr
+/02wLMBZQhBYmef1kCdFvXkEwhFN8RRmlFaqOTELSeg+oV3X9Kh2DXp9boRVDQQK
+w01hUaaIFcuMITNFRcYtjV78udgF/5ilKZii3sPqd/QUL/tiPbOauJO79VBKqCqh
+aF+F59or3WmHZzq3b6/VOv0rC3qkW3Wsta/ow+XrLS8diJphFpr7uiB3Jadjqr85
+MH/xr8rJpyoT//gxjFPM+UUnaKszu+HfxJCilKp35xL94b0Bh9x0fUtCljUn5uhv
+v9d/GTxpvT+0f2zT2HD5lec3ix3K30dansuJ4WbiQivWfW1bk5T5bGqLMnVt/LU0
+V9bQ8ZfTNvat3fsiPmX7qKWXi2qL/yzkLPzTXhBT+3i09q0LTYfJ+LzW+JSn78ff
+TT5uP3TM33z13v5H076pfZmt/aOnc33AeloJ3N64usy+ZvrXAfPQ+a8idjrwtTd2
+mKfY27OJ/sHctq2h2O6qi28OJvdZH7iqXz2WMdKbeWqX7ezY9MqWrNbPq0dS56IV
+nv7u03cfdZ0tcFXVDl46ktv/wi+5D5tqLpTPXqbVJLuntas5r109WbYlWykJPPOG
+kv5zMIz76foZn2n85iblRIrvYGllpDn9Tv+ZmfnhJH9z/vt1O99pq8sP5BUh+/Cq
+XaGMiVj7ecepxohu29xCendyQ3BVe2NNO5+QaJuOrh8o3fzB/KXoDZbOc5Ejuy+P
+vje5wfdDiLDE9fwz0fF2+GPu4FTOA/rWDWdkw9CB4Zvd8ngN2hPcFkxxz64reT01
+u3Hbnk/IyeqrNW3/AYepv5M=
+=2i2s
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dkanbier
+
+==================================================================
+
