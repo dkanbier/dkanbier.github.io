@@ -4,8 +4,6 @@ layout: post
 tags: [Foo, Bar, Baz]
 ---
 
-
-
 ## Foo Bar
 
 An example `foo = bar`.
@@ -18,4 +16,3 @@ my $foo = "bar";
 Image:
 
 ![Jekyll Logo]({{ "/assets/images/jekyll_logo.png"}}){:style="background-color: black"}
-
