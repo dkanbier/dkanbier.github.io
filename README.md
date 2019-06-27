@@ -2,6 +2,8 @@
 
 Jekyll source for [denniskanbier.nl](https://denniskanbier.nl), hosted on GitHub Pages.
 
+Uses remote customized theme: [jekyll-uno](https://github.com/dkanbier/jekyll-uno)
+
 To run in local in docker:
 
 ```
